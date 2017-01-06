@@ -26,7 +26,7 @@ n = input()
 i = 0
 
 if n == 1:
-    print 1
+    print 0
 else:
     while(n != 1):
         n = f(n)
